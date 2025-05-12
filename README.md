@@ -66,6 +66,15 @@ Guidelines for contributing to the project, including how to submit issues and p
 </details>
 
 <details>
+
+<details>
+<summary>Contributing</summary>
+
+Guidelines for contributing to the project, including how to submit issues and pull requests.
+
+</details>
+
+<details>
 <summary>License</summary>
 
 Information about the project's license.
