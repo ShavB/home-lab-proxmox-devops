@@ -55,21 +55,24 @@
 
 ## we have created a user name itachi
 
-````bash
+```bash
 adduser itachi
+```
 
 ![alt text](image-11.png)
 
 ```bash
 adduser itachi sudo
+```
+
 # Add user (itachi here.) to sudo group
+
 ![alt text](image-12.png)
-````
 
 ## ssh into your from your personal pc
 
 ```bash
 ssh your-node-name@your-ip-addr
+```
 
 ![alt text](image-13.png)
-```
