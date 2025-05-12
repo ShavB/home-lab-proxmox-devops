@@ -1,4 +1,6 @@
 ```markdown
+> ⚠️ **Note:** This README is currently a work in progress and not fully documented. I’ll be updating and improving it in the coming days. Thanks for your patience!
+
 # Proxmox Lab for Devops
 
 <details>
